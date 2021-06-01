@@ -1,0 +1,2 @@
+- [](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control)
+- [](https://varvy.com/pagespeed/leverage-browser-caching.html)
