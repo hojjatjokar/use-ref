@@ -1,0 +1,3 @@
+- [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [CS Web Dev Comprehensive Study Path](https://trello.com/b/78MGbnn0/cs-web-dev-comprehensive-study-path-template)
+- [](https://github.com/kamranahmedse/developer-roadmap)
