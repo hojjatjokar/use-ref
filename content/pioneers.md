@@ -1,0 +1,3 @@
+- [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
+- [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+- [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
