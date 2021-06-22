@@ -42,7 +42,11 @@ const config = {
       '/codeblock',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      '/domain-knowlede-topics', // add trailing slash if enabled above
+      '/front-end',
+      '/resources',
+      '/security',
+      '/domain-knowledge',
     ],
     links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
