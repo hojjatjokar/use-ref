@@ -1,3 +1,5 @@
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+- [Deep JS](https://exploringjs.com/deep-js/)
 - [CS Web Dev Comprehensive Study Path](https://trello.com/b/78MGbnn0/cs-web-dev-comprehensive-study-path-template)
 - [](https://github.com/kamranahmedse/developer-roadmap)
