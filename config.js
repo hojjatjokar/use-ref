@@ -1,20 +1,20 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://use.hojjat.dev',
+    siteUrl: 'https://hasura.io',
     gaTrackingId: null,
     trailingSlash: false,
   },
   header: {
     logo: 'https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/brand.svg',
-    logoLink: 'https://use.hojjat.dev/',
+    logoLink: 'https://hasura.io/learn/',
     title:
-      "<a href='https://use.hojjat.dev'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
-    githubUrl: 'https://github.com/hojjatjokar/use-ref',
+      "<a href='https://hasura.io/learn/'><img class='img-responsive' src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/learn-logo.svg' alt='Learn logo' /></a>",
+    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
     helpUrl: '',
     tweetText: '',
     social: `<li>
-		    <a href="https://twitter.com/1hojjat" target="_blank" rel="noopener">
+		    <a href="https://twitter.com/hasurahq" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
 		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
 		      </div>
@@ -39,8 +39,7 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/introduction', // add trailing slash if enabled above
-      '/front-end',
-      '/resources',
+      '/codeblock',
     ],
     collapsedNav: [
       '/domain-knowlede-topics', // add trailing slash if enabled above
@@ -49,16 +48,17 @@ const config = {
       '/security',
       '/domain-knowledge',
     ],
-    links: [{ text: 'Use', link: 'https://use.hojjat.dev' }],
+    links: [{ text: 'Hasura', link: 'https://hasura.io' }],
     frontline: false,
     ignoreIndex: true,
-    title: "<a href='https://use.hojjat.dev'>Useables</a></div>",
+    title:
+      "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
   },
   siteMetadata: {
-    title: 'Use | Hojjat',
-    description: 'List of useful usables',
+    title: 'Gatsby Gitbook Boilerplate | Hasura',
+    description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/hojjatjokar/use-ref/tree/master/content',
+    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
